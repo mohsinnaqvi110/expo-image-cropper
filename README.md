@@ -1,12 +1,18 @@
-# expo-image-cropper-gl-react ![]
-(https://img.shields.io/npm/v/react-native-image-cropper.svg) ![](https://img.shields.io/badge/gl--react->=2.1-05F561.svg) ![](https://img.shields.io/badge/gl--react--expo-05F561.svg)
+# expo-image-cropper-gl-react
+![](https://img.shields.io/npm/v/react-native-image-cropper.svg) 
+![](https://img.shields.io/badge/gl--react->=2.1-05F561.svg) 
+![](https://img.shields.io/badge/gl--react--expo-05F561.svg)
 
 This Image cropper is based on the gl-react-expo [library](https://github.com/gre/gl-react/tree/master/packages/gl-react-expo)
 
-If you want a copy of same cropper for react native app [React-Native-Cropper]
-(https://github.com/stoffern/react-native-image-cropper)
+If you want a copy of same cropper for react native app [React-Native-Cropper](https://github.com/stoffern/react-native-image-cropper)
 
-![Cropping View](https://i.imgur.com/WYvJyvk.gifv)
+ <p align="center">
+    <a href="https://i.imgur.com/VSZPMHy.gif">
+        <img src="https://i.imgur.com/VSZPMHy.gif" height="480"   >
+    </a>
+</p>
+
 
 ## Installation
 ```
