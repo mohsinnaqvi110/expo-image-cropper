@@ -1,0 +1,31 @@
+{
+  "name": "expo-image-cropper-gl-react",
+  "version": "1.1.0",
+  "description": "Crop image in Expo using pan to move, pinch to zoom -> capture to file or base64",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohsinnaqvi110/expo-image-cropper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imagecropper",
+    "image",
+    "crop",
+    "expo",
+    "gl-react-expo",
+    "image-cropper"
+  ],
+  "author": "Mohsin Naqvi",
+  "license": "MIT",
+  "dependencies": {
+    "gl-react": "^3.15.0",
+    "gl-react-expo": "https://firebasestorage.googleapis.com/v0/b/react-native-ui-kits.appspot.com/o/npm%2Fgl-react-expo-3.16.3.tgz?alt=media&token=1c663a32-04a5-41c0-ad61-b91cb55f9f4a",
+    "prop-types": "^15.6.0",
+    "react": "16.5.0",
+    "rect-clamp": "^0.0.0",
+    "rect-crop": "^0.0.0"
+  }
+}
