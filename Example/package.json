@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "expo": "^35.0.0",
-    "expo-image-cropper-gl-react": "davibe/expo-image-cropper#master",
+    "expo-image-cropper-gl-react": "davibe/expo-image-cropper#dev",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz"
   },
