@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from "react"
 import {
   View,
   StyleSheet,
@@ -8,8 +8,9 @@ import {
   Text,
   StatusBar
 } from "react-native";
-import {ImageCrop} from "expo-image-cropper-gl-react";
-import { Asset } from 'expo';
+import {ImageCrop} from "expo-image-cropper-gl-react"
+import { Asset } from 'expo-asset'
+
 
 const imageURI = Asset.fromModule(require('./assets/my.jpg')).uri;
 const { width } = Dimensions.get("window");

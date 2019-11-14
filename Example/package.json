@@ -7,13 +7,14 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^32.0.0",
-    "expo-image-cropper-gl-react": "^1.1.0",
-    "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+    "expo": "^35.0.0",
+    "expo-image-cropper-gl-react": "davibe/expo-image-cropper#dev",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "undefined": "davibe/expo-image-cropper#dev"
   },
   "devDependencies": {
-    "babel-preset-expo": "^5.0.0"
+    "babel-preset-expo": "^7.0.0"
   },
   "private": true
 }

@@ -40,6 +40,7 @@ const movementFromZoom = (gestureState, viewport, dimensions, offsets, zoom) => 
 
 class ImageCrop extends Component {
   constructor(props) {
+    console.log('constructor')
     super(props);
     this.state = {
       zoom: 1,
